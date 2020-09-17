@@ -16,7 +16,7 @@
 
 ```
 [Unit]
-Description=usb daemon service
+Description=utilisateur xls
 After=network.target
 StartLimitIntervalSec=0
 
